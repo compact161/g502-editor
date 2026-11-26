@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=G502 Onboard Editor
+Comment=Edit buttons, G-Shift layer, DPI and lighting of the G502 X PLUS
+Exec=@APP@/start.sh
+Icon=input-mouse
+Terminal=false
+Categories=Settings;HardwareSettings;
+StartupNotify=true

@@ -1,0 +1,2 @@
+# Shared default shellcheck config.
+external-sources=true

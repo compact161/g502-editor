@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=G502 – Button Map (Window)
+Comment=G502 button mapping cheat sheet as a window
+Exec=/usr/bin/python @APP@/cheatsheet.py
+Icon=input-mouse
+Terminal=false
+Categories=Settings;HardwareSettings;
+StartupNotify=false
+X-KDE-autostart-phase=2

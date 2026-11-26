@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "compact161"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "G502 button mapping with G-Shift layer as a cheat sheet (read-only)",
+        "Icon": "input-mouse",
+        "Id": "io.github.compact161.g502onboardeditor.buttonmap",
+        "License": "MIT",
+        "Name": "G502 Button Map",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": true,
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}

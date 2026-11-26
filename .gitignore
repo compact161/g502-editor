@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Device backups contain private device IDs
+backup*/
+*.backup
+draft*.yaml

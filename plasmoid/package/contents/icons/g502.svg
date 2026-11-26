@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <!-- Mouse from above: body, wheel and the split between the main buttons; on the 22 px grid.
+       Used as a mask, so only the alpha counts. -->
+  <rect x="6" y="3" width="10" height="16" rx="5" fill="none" stroke="#000" stroke-width="1.6"/>
+  <path d="M11 3v2.5" fill="none" stroke="#000" stroke-width="1.6"/>
+  <rect x="10" y="6.5" width="2" height="3.5" rx="1" fill="#000"/>
+</svg>
